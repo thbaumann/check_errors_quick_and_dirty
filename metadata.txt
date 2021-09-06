@@ -1,0 +1,7 @@
+[general]
+name=NaN Checker
+description=NaN Checker
+version=1.0
+qgisMinimumVersion=3.0
+author=Thomas Baumann
+email=Thomas.Baumann@regiodata-gmbh.de
