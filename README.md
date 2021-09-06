@@ -1,1 +1,1 @@
-# not production ready... just quick and dirty testplugin to hunt down a bug
+#note to myself: just quick and dirty testplugin to hunt down the nullgeom-bug
