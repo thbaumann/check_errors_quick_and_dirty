@@ -1,6 +1,6 @@
 # encoding: utf-8
 #-----------------------------------------------------------
-# Copyright (C) 2015 Martin Dobias
+# Copyright (C) based on the minimal plugin from 2015 Martin Dobias
 #-----------------------------------------------------------
 # Licensed under the terms of GNU GPL 2
 #
