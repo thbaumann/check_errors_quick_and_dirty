@@ -1,0 +1,26 @@
+<pyqgis_plugin name="NAN_NULL_CHECKER" version="0.1" plugin_id="100019">
+        <description><![CDATA[<p>NAN und Nullgeom Checker.Nur nach Ruecksprache einsetzen!<p />]]></description>
+        <about></about>
+        <version>0.1</version>
+        <trusted>True</trusted>
+        <qgis_minimum_version>3.4.0</qgis_minimum_version>
+        <qgis_maximum_version>3.99.0</qgis_maximum_version>
+        <homepage><![CDATA[http://google.de?q=gehensieweiterhiergibtesnichtszusehen]]></homepage>
+        <file_name>nan_checker.zip</file_name>
+        <icon>http://qgis-plugins-dev.regiodata.local/plugins_v3/breitband/nan_checker/QGIS_Repository/icon.png</icon>
+        <author_name><![CDATA[Thomas B.]]></author_name>
+        <download_url>http://qgis-plugins-dev.regiodata.local/plugins_v3/breitband/nan_checker/Plugin/nan_checker.zip</download_url>
+        <uploaded_by><![CDATA[thomas]]></uploaded_by>
+        <create_date>2021-2-11T11:32:17.111045</create_date>
+        <update_date>2020-2-11T11:32:17.111045</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker><![CDATA[http://lalalalala.org]]></tracker>
+        <repository><![CDATA[]]></repository>
+        <tags><![CDATA[OSM, rd, regiodata]]></tags>
+        <downloads>2</downloads>
+        <average_vote>3.66644445503</average_vote>
+        <rating_votes>2</rating_votes>
+        <external_dependencies></external_dependencies>
+        <server>False</server>
+</pyqgis_plugin>
